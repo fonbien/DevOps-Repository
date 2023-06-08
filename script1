@@ -1,0 +1,5 @@
+#!/bin/bash
+#This script is for bank user authentification
+echo "Enter your full name"
+read name
+echo "Welcome to Afrikland First"
