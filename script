@@ -1,0 +1,4 @@
+echo "Welcome to UBA"
+echo "Please enter your pin"
+read pin 
+echo "You are athenticated"
